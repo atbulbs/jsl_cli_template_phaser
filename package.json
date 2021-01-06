@@ -32,7 +32,7 @@
   "homepage": "https://github.com/atbulbs/all_in_typescript#readme",
   "dependencies": {
     "@babel/runtime": "^7.10.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "phaser": "^3.23.0",
     "vue": "^2.6.10",
     "vue-router": "^3.1.3"
